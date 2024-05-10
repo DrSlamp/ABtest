@@ -2,7 +2,7 @@ import numpy as np
 import math
 from numpy import random
 
-#ABTEST1
+#ABTEST
 
 #ROWS = 4
 #COLS = 4
